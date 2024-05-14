@@ -23,7 +23,7 @@ const Main = () => {
                 <div className='lg:py-10 md:py-2 lg:mt-[5rem] gap-8 lg:gap-0 flex flex-col-reverse lg:flex-row md:items-start'>
                     <div className='w-full lg:w-1/2 text-white flex flex-col   space-y-5  px-2 sm:px-0'>
                         <h2 className='lg:text-6xl text-3xl text-center lg:text-start font-bold'>Hire a Hacker Service</h2>
-                        <p className='py-4 text-xl text-center lg:text-start'>Are you looking to hire a hacker? If so, you've come to the right place. Cyber ethical hackers is a website that connects people who need hacking services with professional and certified ethical hackers. </p>
+                        <p className='py-4 text-xl text-center lg:text-start'>Are you looking to hire a hacker? If so, you&rsquo;ve come to the right place. Cyber ethical hackers is a website that connects people who need hacking services with professional and certified ethical hackers. </p>
                         <p className='py-4 text-xl text-center lg:text-start'>
                             We provide a safe and secure platform for people to find the ethical hacking skills they need without worrying about service delivery.
                         </p>

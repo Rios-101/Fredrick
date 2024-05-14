@@ -19,7 +19,7 @@ const Bar2 = () => {
                         </div>
                         <h2 className='text-primary-300 text-2xl py-3 font-bold'>Phone Hacking Service</h2>
                         <div className='space-y-4 text-white'>
-                            <p>  There are many reasons why you might need to hire a cell phone hacker. Perhaps you want to hack into your spouse's cell phone to see if they're cheating on you. Or maybe you need to get into a company's computer system to steal trade secrets. Whatever the reason, it is important to find the right hacker for the job. Not all hackers are created equal, so you need to be careful when choosing one.
+                            <p>  There are many reasons why you might need to hire a cell phone hacker. Perhaps you want to hack into your spouse&rsquo;s cell phone to see if they&rsquo;re cheating on you. Or maybe you need to get into a company&rsquo;s computer system to steal trade secrets. Whatever the reason, it is important to find the right hacker for the job. Not all hackers are created equal, so you need to be careful when choosing one.
                             </p>
                             <p>  Here at cyber lords, we have years of experience in hacking phones, computers, and other electronic devices. We have the skills and expertise necessary to help you achieve your goals. Contact us today for more information or to get started!</p>
 
@@ -53,7 +53,7 @@ const Bar2 = () => {
                         </div>
                         <h2 className='text-primary-300 text-2xl py-3 font-bold'>Social media hackers</h2>
                         <div className='space-y-4 text-white'>
-                            <p> Are you looking to hire a hacker for social media? If so, you've come to the right place. Here at cyber lord, we offer a wide range of services that include social media hacking. We have a team of experts who are skilled in this area and can help you get the results you're looking for.
+                            <p> Are you looking to hire a hacker for social media? If so, you&rsquo;ve come to the right place. Here at cyber lord, we offer a wide range of services that include social media hacking. We have a team of experts who are skilled in this area and can help you get the results you&rsquo;re looking for.
                             </p>
                             <p>  Cyber lords is a hacker-for-hire service. We provide social media hackers, malicious hackers, and good guys to find vulnerabilities, recover Facebook accounts, and access web tools and information. We have a wide variety of skills and tools at our disposal to help our customers. We are committed to providing the best possible service to our clients and offer competitive prices.</p>
 
@@ -71,7 +71,7 @@ const Bar2 = () => {
                         </div>
                         <h2 className='text-primary-300 text-2xl py-3 font-bold'>Hire a hacker for WhatsApp</h2>
                         <div className='space-y-4 text-white'>
-                            <p>  Hackers can be hired to help with a variety of tasks, including gaining access to WhatsApp messages. If you're looking for someone to help you with your WhatsApp hacker, or if you'd like someone to help you spy on your partner's messages, then a hacker is the perfect solution. Contact our phone hackers available for hire.</p>
+                            <p>  Hackers can be hired to help with a variety of tasks, including gaining access to WhatsApp messages. If you&rsquo;re looking for someone to help you with your WhatsApp hacker, or if you&rsquo;d like someone to help you spy on your partner&rsquo;s messages, then a hacker is the perfect solution. Contact our phone hackers available for hire.</p>
 
                         </div>
                     </div>
@@ -87,7 +87,7 @@ const Bar2 = () => {
                         </div>
                         <h2 className='text-primary-300 text-2xl py-3 font-bold'>School Grade Hacking</h2>
                         <div className='space-y-4 text-white'>
-                            <p>  If you're like most people, you probably think of school grades as a measure of how well you've done in a class. But what if there was a way to get better grades without actually studying or doing any extra work? Believe it or not, there is - and hackers are the ones who can do it! Hire our hackers to change grades and legit hacker. Hacker hired to change grades are renowned expert as a computer hacker.</p>
+                            <p>  If you&rsquo;re like most people, you probably think of school grades as a measure of how well you&rsquo;ve done in a class. But what if there was a way to get better grades without actually studying or doing any extra work? Believe it or not, there is - and hackers are the ones who can do it! Hire our hackers to change grades and legit hacker. Hacker hired to change grades are renowned expert as a computer hacker.</p>
 
                         </div>
                     </div>

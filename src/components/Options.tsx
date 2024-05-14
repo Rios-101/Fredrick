@@ -26,8 +26,8 @@ const Options = () => {
                         </div>
                         <div className='space-y-4 text-primary-300'>
 
-                            <p>  We render consulting services to investigate your spouse's activities. We offer to track your spouse's activities, GPS location, and real-time conservation. </p>
-                            <p> Want to catch a cheating spouse? Our phone hackers can come up with the option to hack your spouse's phone remotely. Do you worry about how to gain access to your spouse's phone? From iPhone to android, we have the basic steps to guide you on how you can achieve this.
+                            <p>  We render consulting services to investigate your spouse&rsquo;s activities. We offer to track your spouse&rsquo;s activities, GPS location, and real-time conservation. </p>
+                            <p> Want to catch a cheating spouse? Our phone hackers can come up with the option to hack your spouse&rsquo;s phone remotely. Do you worry about how to gain access to your spouse&rsquo;s phone? From iPhone to android, we have the basic steps to guide you on how you can achieve this.
                             </p>
                             <p>We protect your sensitive information when conducting business on our platform. Total security to save you from dark web hackers stealing your ID. </p>
                         </div>
@@ -41,7 +41,7 @@ const Options = () => {
 
                         <div className='space-y-4 text-primary-300'>
                             <p>  The Cyber Lords are a team of professional hackers who are prepared to hack email provider accounts. These include - but are not limited to - Yandex, Gmail, Yahoo, and Proton mail. Our team is also equipped with brute-force systems to hack passwords for any email provider account for a reasonable price. </p>
-                            <p>  We understand that people's email accounts can contain sensitive information they may not want to share with anyone else. We offer a confidential and secure email hacking service that guarantees the safety and privacy of our client's information.
+                            <p>  We understand that people&rsquo;s email accounts can contain sensitive information they may not want to share with anyone else. We offer a confidential and secure email hacking service that guarantees the safety and privacy of our client&rsquo;s information.
                             </p>
                             <p> 									    When you hire us to hack into an email account. We will first gather all the necessary information about the account that you want us to hack. This includes the email address, password, recovery questions, and any other relevant information.. </p>
                         </div>

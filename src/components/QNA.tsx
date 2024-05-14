@@ -44,6 +44,7 @@ const QNA = () => {
                         {data.map(ele => {
                             return (
                                 <Disclosure key={ele.id}>
+                                    {/* @ts-ignore */}
                                     {({ open }) => (
                                         <>
                                             <div
