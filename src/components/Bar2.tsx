@@ -11,7 +11,7 @@ const Bar2 = () => {
                         <div className='lg:p-6 p-3 w-fit rounded-lg  bg-black hover:bg-white'>
                             <Image
                                 alt='icon'
-                                src={"/image/why.png"}
+                                src={"/image/Why.png"}
                                 width={40}
                                 height={40}
                                 className=' hover:bg-white lg:w-[40px] lg:h-[40px] w-[20px] h-[20px]'
@@ -29,7 +29,7 @@ const Bar2 = () => {
                         <div className='lg:p-6 p-3 w-fit rounded-lg  bg-black hover:bg-white'>
                             <Image
                                 alt='icon'
-                                src={"/image/why3.png"}
+                                src={"/image/Why3.png"}
                                 width={40}
                                 height={40}
                                 className=' hover:bg-white lg:w-[40px] lg:h-[40px] w-[20px] h-[20px]'
@@ -45,7 +45,7 @@ const Bar2 = () => {
                         <div className='lg:p-6 p-3 w-fit rounded-lg  bg-black hover:bg-white'>
                             <Image
                                 alt='icon'
-                                src={"/image/why2.png"}
+                                src={"/image/Why2.png"}
                                 width={40}
                                 height={40}
                                 className=' hover:bg-white lg:w-[40px] lg:h-[40px] w-[20px] h-[20px]'
@@ -63,7 +63,7 @@ const Bar2 = () => {
                         <div className='lg:p-6 p-3 w-fit rounded-lg  bg-black hover:bg-white'>
                             <Image
                                 alt='icon'
-                                src={"/image/why2.png"}
+                                src={"/image/Why2.png"}
                                 width={40}
                                 height={40}
                                 className=' hover:bg-white lg:w-[40px] lg:h-[40px] w-[20px] h-[20px]'
@@ -79,7 +79,7 @@ const Bar2 = () => {
                         <div className='lg:p-6 p-3 w-fit rounded-lg  bg-black hover:bg-white'>
                             <Image
                                 alt='icon'
-                                src={"/image/why2.png"}
+                                src={"/image/Why2.png"}
                                 width={40}
                                 height={40}
                                 className=' hover:bg-white lg:w-[40px] lg:h-[40px] w-[20px] h-[20px]'
