@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
+import Banner from "/image/banner.png"
 
 const Main = () => {
     return (
@@ -39,9 +40,9 @@ const Main = () => {
                     <div className='w-full lg:justify-start flex justify-center items-center lg:w-1/2'>
                         <Image
                             alt='banner'
-                            src={"/image/banner.png"}
-                            width={1000}
-                            height={1000}
+                            src={Banner}
+                            width={500}
+                            height={500}
                             className='w-[250px] rounded-full lg:rounded-none h-[250px] xl:w-[500px] xl:h-[500px] lg:w-[500px] lg:h-[550px]'
                         />
                     </div>
