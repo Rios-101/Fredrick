@@ -9,7 +9,7 @@ const Bar = () => {
                     <div className='lg:p-8 p-3 rounded-xl space-y-4 bg-primary-600 hover:bg-gradient-to-b hover:to-red-600 hover:from-gray-900 flex flex-col justify-center items-center lg:justify-start lg:items-start'>
                         <Image
                             alt='bar'
-                            src={"/bar.png"}
+                            src={"/image/bar.png"}
                             width={60}
                             height={60}
                             className=' hover:bg-white'
@@ -20,7 +20,7 @@ const Bar = () => {
                     <div className='lg:p-8 p-3 rounded-xl space-y-4 bg-primary-600 hover:bg-gradient-to-b hover:to-red-600 hover:from-gray-900 flex flex-col justify-center items-center lg:justify-start lg:items-start'>
                         <Image
                             alt='bar'
-                            src={"/bar1.png"}
+                            src={"/image/bar1.png"}
                             width={60}
                             height={60}
                             className=' hover:bg-white'
@@ -31,7 +31,7 @@ const Bar = () => {
                     <div className='lg:p-8 p-3 rounded-xl space-y-4 bg-primary-600 hover:bg-gradient-to-b hover:to-red-600 hover:from-gray-900 flex flex-col justify-center items-center lg:justify-start lg:items-start'>
                         <Image
                             alt='bar'
-                            src={"/bar2.png"}
+                            src={"/image/bar2.png"}
                             width={60}
                             height={60}
                             className=' hover:bg-white'
@@ -42,7 +42,7 @@ const Bar = () => {
                     <div className='lg:p-8 p-3 rounded-xl space-y-4 bg-primary-600 hover:bg-gradient-to-b hover:to-red-600 hover:from-gray-900 flex flex-col justify-center items-center lg:justify-start lg:items-start'>
                         <Image
                             alt='bar'
-                            src={"/bar3.png"}
+                            src={"/image/bar3.png"}
                             width={60}
                             height={60}
                             className=' hover:bg-white'

@@ -14,7 +14,7 @@ const Why = () => {
                         <div className='lg:p-6 p-3 w-fit rounded-lg  bg-black hover:bg-white'>
                             <Image
                                 alt='icon'
-                                src={"/why.png"}
+                                src={"/image/why.png"}
                                 width={40}
                                 height={40}
                                 className=' hover:bg-white lg:w-[40px] lg:h-[40px] w-[20px] h-[20px]'
@@ -33,7 +33,7 @@ const Why = () => {
                         <div className='lg:p-6 p-3 w-fit rounded-lg  bg-black hover:bg-white'>
                             <Image
                                 alt='icon'
-                                src={"/why3.png"}
+                                src={"/image/why3.png"}
                                 width={40}
                                 height={40}
                                 className=' hover:bg-white lg:w-[40px] lg:h-[40px] w-[20px] h-[20px]'
@@ -51,7 +51,7 @@ const Why = () => {
                         <div className='lg:p-6 p-3 w-fit rounded-lg  bg-black hover:bg-white'>
                             <Image
                                 alt='icon'
-                                src={"/why2.png"}
+                                src={"/image/why2.png"}
                                 width={40}
                                 height={40}
                                 className=' hover:bg-white lg:w-[40px] lg:h-[40px] w-[20px] h-[20px]'

@@ -31,7 +31,7 @@ const QNA = () => {
                     <div className=''>
                         <Image
                             alt='src'
-                            src={"/qna.jpg"}
+                            src={"/image/qna.jpg"}
                             width={1000}
                             height={1000}
                             className='w-[250px] rounded-full lg:rounded-none h-[250px] xl:w-[500px] xl:h-[500px] lg:w-[500px] lg:h-[550px]'

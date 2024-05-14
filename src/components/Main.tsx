@@ -4,7 +4,7 @@ import React from 'react'
 
 const Main = () => {
     return (
-        <div className='min-h-screen bg-cover bg-center backdrop-blur-md' style={{ backgroundImage: `url(/bg.png)` }}>
+        <div className='min-h-screen bg-cover bg-center backdrop-blur-md' style={{ backgroundImage: `url(/image/bg.png)` }}>
             <div className='lg:w-[74%] mx-2 lg:mx-auto'>
                 <nav className='flex justify-end lg:py-10 py-2 items-center'>
                     {/* <p className='text-white text-lg'>LOGO</p> */}
@@ -39,7 +39,7 @@ const Main = () => {
                     <div className='w-full lg:justify-start flex justify-center items-center lg:w-1/2'>
                         <Image
                             alt='banner'
-                            src={"/banner.png"}
+                            src={"/image/banner.png"}
                             width={1000}
                             height={1000}
                             className='w-[250px] rounded-full lg:rounded-none h-[250px] xl:w-[500px] xl:h-[500px] lg:w-[500px] lg:h-[550px]'
